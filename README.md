@@ -9,7 +9,7 @@ I specialize in high-precision data cleaning, transformation, and automation. My
 - **Specialization:** Artificial Intelligence & Machine Learning
 
 ### 📈 Featured Project
-**Amazon Financial Data Optimization**
+**Large File Financial Data Optimization**
 Processed a 14,000+ row report, splitting complex merged strings and standardizing financial data into a presentation-ready format.
 
 ---
